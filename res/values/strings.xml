@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">How To Adventure</string>
+    <string name="home">Home Page</string>
+    <string name="sign_in">Sign In</string>
+    <string name="start">Start an Adventure</string>
+    <string name="publish">Publish an Adventure</string>
+    <string name="find">Find an Adventure</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="create_account">Create an Account</string>
+    <string name="adventures_prompt">Choose an Adventure Type</string>
+    <string-array name="adventures">
+        <item>adventure1</item>
+        <item>adventure2</item>
+        <item>adventure3</item>
+    </string-array>
+    <string name="photo">Add photo</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="duration">Duration (hours)</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="outfitter">Outfitter Info.</string>
+    <string name="cost">Cost</string>
+</resources>
